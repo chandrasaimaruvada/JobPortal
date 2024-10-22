@@ -1,4 +1,4 @@
-# Job Portal Application - README
+# Job Portal Application 
 
 ## Overview
 
@@ -123,6 +123,3 @@ The **Job Portal Application** is a Spring Boot-based platform that connects **j
 
 The **Job Portal Application** is a robust platform that helps job seekers find jobs and recruiters post job openings efficiently. With Spring Boot for the backend and Thymeleaf for the frontend, the app is secure, responsive, and easy to maintain.
 
----
-
-This README provides setup instructions, technologies used, and a functional overview specific to a Spring Boot and Thymeleaf-based Job Portal Application.
